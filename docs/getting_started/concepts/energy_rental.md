@@ -41,6 +41,7 @@ Once the parameters are set, you can place an order to proceed with the transact
 After completing the rental transaction, you can manage your orders via the energy rental interface. Options include returning the rent, extending the rent order, viewing the actual energy received, and checking the remaining rental duration.
 
 We recommend users customize their leasing plans based on their specific needs:
+
 * **For single transactions**, we recommend returning the energy immediately after use. This avoids liquidation and helps save on occupation fees.
 * **For users with regular daily transactions**, we suggest opting for a long-term hassle-free rental plan by renting energy for 30 days based on daily energy consumption. With the 24-hour full restoration rule, there is no need to rent excessive amounts of energy.
 
