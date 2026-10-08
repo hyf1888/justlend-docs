@@ -31,7 +31,7 @@ Each money market on JustLend DAO represents a specific TRON asset, including TR
 
 * **Repay:** borrowers can repay their loans at any time.
 
-* **Liquidation:** if the value of a borrower's collateralized assets falls below the liquidation threshold, JustLend DAO smart contracts will trigger liquidation automatically.
+* **Liquidation:** If an account reaches the liquidation threshold (Risk Value > 100), the protocol allows liquidators to repay a portion of the account's debt and receive collateral as a liquidation reward.
 
 ### **Where to interact**
 
