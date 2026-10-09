@@ -137,7 +137,7 @@ function totalRent() view external returns (uint256)
 ### **Claimed Rent Income**
 The STRX contract can extract the income through the `claimRental` function, which records the accumulated income that has been extracted.
 ``` solidity
-function claimRent() view external returns (uint256)
+function claimRental() view external returns (uint256)
 ```
 
 * **Parameter description:** N/A;
