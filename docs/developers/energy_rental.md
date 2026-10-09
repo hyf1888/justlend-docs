@@ -214,7 +214,7 @@ function returnResource (address receiver, uint256 amount, uint256 resourceType)
     * `receiver:` the resource receiver of this rental;
     * `amount:` rent resource corresponding to the amount of TRX  (**delegated TRX amount**), the minimum unit;
     * `resourceType:` resource type, 0: bandwidth; 1: energy;
-    * `msg.sender:` resource receiver.
+    * `msg.sender:` resource payer.
 * **Returns:** the amount of the deposit returned in this operation. 0 for a partial return.
 
 #### **Event**
