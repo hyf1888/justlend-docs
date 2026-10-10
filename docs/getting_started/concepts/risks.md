@@ -54,7 +54,7 @@ If you have enabled “Risk Alert” yet still fail to receive email notificatio
 2. **Email Receiving Issues**
 
   * Receiving delays: Sometimes, email notifications may not come through quickly due to the delay issues. Please be patient and check your inbox again later.
-  * Receiving failures: If your emails cannot be received or are rejected, you may also experience difficulty in receiving email notifications. In this case, you can check your outbox about this kind of issue and try again in the JustLend platform.
+  * Receiving failures: If your emails cannot be received or are rejected, you may also experience difficulty in receiving email notifications. In this case, you can check your inbox about this kind of issue and try again in the JustLend platform.
 
 3. **User Information**
   * Incorrect email address: Make sure you have provided a correct email address in the “Risk Alert” service on JustLend DAO and have verified that your address functions well.
